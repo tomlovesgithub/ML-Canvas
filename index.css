@@ -1,0 +1,12 @@
+#canvas{
+  width: 100vw;
+  height: 100vh;
+  left:0%;
+  position: absolute;
+  top:0%;
+  background:grey
+}
+hmtl{
+  overflow: hidden;
+  scroll: none;
+}
